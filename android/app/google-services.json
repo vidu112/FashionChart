@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "129804345190",
+    "firebase_url": "https://fluttershop-75096.firebaseio.com",
+    "project_id": "fluttershop-75096",
+    "storage_bucket": "fluttershop-75096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:4f87fe95a414a821b532a7",
+        "android_client_info": {
+          "package_name": "com.example.fashion_cart_driver2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:cba2a5804081b3d7b532a7",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-cpt8ceu4gjl1g1pr4cpogljj82agit2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterlogindemo",
+            "certificate_hash": "fe85c1786c18540a0ca2bee2db9767ca03537f12"
+          }
+        },
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:0b0822e72e8047a1b532a7",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-t3qdmnpi0pdhjn12hv8jjb3nq11kctbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth",
+            "certificate_hash": "fe85c1786c18540a0ca2bee2db9767ca03537f12"
+          }
+        },
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:7bded3c2175ab1b6b532a7",
+        "android_client_info": {
+          "package_name": "com.example.treva_shop_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:29898c3cbe8cbfa4b532a7",
+        "android_client_info": {
+          "package_name": "com.example.trevashopflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:708f9bd8c61b704cb532a7",
+        "android_client_info": {
+          "package_name": "com.example.vidusVersion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129804345190:android:064681643c278b7eb532a7",
+        "android_client_info": {
+          "package_name": "com.stumlai.fashioncartdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129804345190-69mu0kjf1vokf06sda09pjqrpv0rb0s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stumlai.fashioncartdriver",
+            "certificate_hash": "cbdd0d104a1a0df6c9c06af0a649808c9eea6088"
+          }
+        },
+        {
+          "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafErTKvgizt7rQw0SPjbVHtqaXDsih6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129804345190-m8n2437ncidhlm3221rbqrcrcap9ppvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
